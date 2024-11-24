@@ -1,4 +1,4 @@
-from turtle import Turtle, Screen
+wafrom turtle import Turtle, Screen
 
 eas = Turtle()
 screen = Screen()
